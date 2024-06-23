@@ -14,3 +14,8 @@ Feature: Error Validation
     Examples: 
       | UserName  								| Password 		| 
       | poojajprabhuraj@gmail.com |JPpoo@9040   | 
+      
+   ************dmwfbwef*******************
+    When Login with <UserName> and <Password>
+    When I check for the <value> in step
+   
