@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SeleniumFramework
+Bundle-SymbolicName: SeleniumFramework
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: SeleniumFramework.jar,
+ Shashidhara N R/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.19.1/selenium-edge-driver-4.19.1.jar,
+ Shashidhara N R/.m2/repository/org/seleniumhq/selenium/selenium-api/4.19.1/selenium-api-4.19.1.jar
+Automatic-Module-Name: SeleniumFramework
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Export-Package: poojaPrabhuraj.AbstractComponents,
+ poojaPrabhuraj.Resources,
+ poojaPrabhuraj.TestComponents,
+ poojaPrabhuraj.pageObjects,
+ poojaPrabhuraj.tests
+Require-Bundle: org.apache.commons.io,
+ SeleniumFramework

@@ -1,0 +1,8 @@
+poojaPrabhuraj\pageObjects\ConfirmationPageObjects.class
+poojaPrabhuraj\pageObjects\ProductCataloguePageObjects.class
+poojaPrabhuraj\pageObjects\OrdersPageObjects.class
+poojaPrabhuraj\pageObjects\LandingPageObjects.class
+poojaPrabhuraj\pageObjects\placeOrderPageObjects.class
+poojaPrabhuraj\Resources\ExtentReporterNG.class
+poojaPrabhuraj\pageObjects\CheckoutPageObects.class
+poojaPrabhuraj\AbstractComponents\AbstractComponent.class
